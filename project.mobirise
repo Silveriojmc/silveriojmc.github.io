@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HomelyBarber",
-    "currentPage": "homelyBarber.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -63,7 +63,7 @@
     "gdpr": false
   },
   "pages": {
-    "homelyBarber.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "HomelyBarber",
